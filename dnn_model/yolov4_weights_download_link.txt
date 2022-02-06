@@ -1,0 +1,6 @@
+Download pre-trained YOLO4 weights via the link below:
+
+https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights
+ 
+
+
